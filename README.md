@@ -1,3 +1,3 @@
 # Chat-react-hooks
 
-separate API for React hooks implementation
+separate API-chat with React hooks implementation
